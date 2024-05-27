@@ -1,1 +1,1 @@
-# Typescript-Runner-And-Libary
+# Typescript-Runner-Or-Libary
